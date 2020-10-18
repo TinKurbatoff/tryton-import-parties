@@ -1,1 +1,0 @@
-# tryton-import-parties
